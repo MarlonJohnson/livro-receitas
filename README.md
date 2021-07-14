@@ -6,3 +6,4 @@ Olá! Bem vindo ao meu livro de receitas :wave:
 - Hambúrguer de Patinho
 -  Coxinha de Frango
 -  Empada de Queijo
+-  Língua de boi
